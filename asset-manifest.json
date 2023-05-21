@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/menu-display-mini-project-react/static/css/main.78017551.css",
+    "main.js": "/menu-display-mini-project-react/static/js/main.2f78851d.js",
+    "static/media/img_182461_countrydelightcofounders.jpg": "/menu-display-mini-project-react/static/media/img_182461_countrydelightcofounders.da51b269e0a61bcaac63.jpg",
+    "static/media/cheesecake-factory-oreo-dream-extreme-cheesecake-copycat-recipe_1.jpg": "/menu-display-mini-project-react/static/media/cheesecake-factory-oreo-dream-extreme-cheesecake-copycat-recipe_1.7438dd5cb0714117f180.jpg",
+    "static/media/tumblr_piukhbBYdY1wow359o1_1280.jpg": "/menu-display-mini-project-react/static/media/tumblr_piukhbBYdY1wow359o1_1280.61ef0c00ca52a0944a3d.jpg",
+    "static/media/nathans.jpg.webp": "/menu-display-mini-project-react/static/media/nathans.jpg.dd2ff5cc9ebf1b749386.webp",
+    "static/media/23-30-grubstreet-takeout.rhorizontal.w700.jpg.webp": "/menu-display-mini-project-react/static/media/a2fa507ee9aafaadf0aef6e1932ed65223-30-grubstreet-takeout.rhorizontal.w700.jpg.dd77a01fe5964d836adc.webp",
+    "static/media/24530-ButtermilkPancakesII-mfs-beauty-3385-4x3-jpg": "/menu-display-mini-project-react/static/media/24530-ButtermilkPancakesII-mfs-beauty-3385-4x3-69cdcbfc09fa4aa999e2a3e18b8d68a8.1a8ada5fc986b188c7d5.jpg",
+    "static/media/2832.jpg.webp": "/menu-display-mini-project-react/static/media/2832.jpg.d073b6121631606385a6.webp",
+    "static/media/persimmon-caprese-6-300x300.jpg.webp": "/menu-display-mini-project-react/static/media/persimmon-caprese-6-300x300.jpg.68f92f5a5cc64d6f3445.webp",
+    "index.html": "/menu-display-mini-project-react/index.html",
+    "main.78017551.css.map": "/menu-display-mini-project-react/static/css/main.78017551.css.map",
+    "main.2f78851d.js.map": "/menu-display-mini-project-react/static/js/main.2f78851d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78017551.css",
+    "static/js/main.2f78851d.js"
+  ]
+}
